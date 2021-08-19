@@ -94,8 +94,6 @@ function App() {
           </div>
         </section>
       </main>
-
-      <footer></footer>
     </div>
   );
 }
