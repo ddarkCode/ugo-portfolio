@@ -8,7 +8,7 @@ function App() {
       <div className='logos'>
         <img src='/images/brand-logo.png' alt='hng logo' />
         <img src='/images/zuri.png' alt='zuri logo' />
-        <img src='/images/i4g.png' alt='I4G' />
+        <img src='/images/i4G.png' alt='I4G' />
       </div>
       <header>
         <div className='profile-img'>
