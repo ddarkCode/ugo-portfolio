@@ -5,6 +5,11 @@ import './App.scss';
 function App() {
   return (
     <div>
+      <div className='logos'>
+        <img src='/images/brand-logo.png' alt='hng logo' />
+        <img src='/images/zuri.png' alt='zuri logo' />
+        <img src='/images/i4g.png' alt='I4G' />
+      </div>
       <header>
         <div className='profile-img'>
           <img src='/images/coder.jpg' alt='Ugo' />
